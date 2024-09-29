@@ -5,7 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimshigunarathna&label=Profile%20views&color=0e75b6&style=flat" alt="nimshigunarathna" /> </p>
 
 - 🔭 I’m currently working on **Undergraduate in Eastern University of SriLanka**
-
 - 🌱 I’m currently learning **C+,HTML,CSS,JavaScript,React**
 
   
